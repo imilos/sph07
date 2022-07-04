@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="80">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <df name="sph07-ublas" root=".">
+      <df name="build">
+      </df>
+      <df name="CMakeFiles">
+        <df name="CMakeTmp">
+          <df name="CMakeFiles">
+            <df name="cmTryCompileExec114024779.dir">
+            </df>
+            <df name="cmTryCompileExec2588904756.dir">
+            </df>
+            <df name="cmTryCompileExec3474231505.dir">
+            </df>
+            <df name="cmTryCompileExec394849766.dir">
+            </df>
+          </df>
+        </df>
+        <df name="CompilerIdC">
+          <in>CMakeCCompilerId.c</in>
+          <in>a.out</in>
+        </df>
+        <df name="CompilerIdCXX">
+          <in>CMakeCXXCompilerId.cpp</in>
+          <in>a.out</in>
+        </df>
+        <df name="sph07.dir">
+          <in>CXX.includecache</in>
+          <in>DependInfo.cmake</in>
+          <in>build.make</in>
+          <in>cmake_clean.cmake</in>
+          <in>depend.internal</in>
+          <in>depend.make</in>
+          <in>flags.make</in>
+          <in>link.txt</in>
+          <in>progress.make</in>
+        </df>
+        <in>CMakeCCompiler.cmake</in>
+        <in>CMakeCXXCompiler.cmake</in>
+        <in>CMakeDetermineCompilerABI_C.bin</in>
+        <in>CMakeOutput.log</in>
+        <in>CMakeSystem.cmake</in>
+      </df>
+      <df name="Debug">
+      </df>
+      <in>MBaseAccelVars.cpp</in>
+      <in>MBaseAccelVars.h</in>
+      <in>MCommonParticle.cpp</in>
+      <in>MCommonParticle.h</in>
+      <in>MConstitutive.cpp</in>
+      <in>MConstitutive.h</in>
+      <in>MContactVars.cpp</in>
+      <in>MContactVars.h</in>
+      <in>MFileHandlingVars.cpp</in>
+      <in>MFileHandlingVars.h</in>
+      <in>MGhostParticle.cpp</in>
+      <in>MGhostParticle.h</in>
+      <in>MGhostParticleData.cpp</in>
+      <in>MGhostParticleData.h</in>
+      <in>MGlobalVars.cpp</in>
+      <in>MGlobalVars.h</in>
+      <in>MHistoryVars.cpp</in>
+      <in>MHistoryVars.h</in>
+      <in>MKernel.cpp</in>
+      <in>MKernel.h</in>
+      <in>MKernelBSpline.cpp</in>
+      <in>MKernelBSpline.h</in>
+      <in>MLoadCurveVars.cpp</in>
+      <in>MLoadCurveVars.h</in>
+      <in>MMaterial.cpp</in>
+      <in>MMaterial.h</in>
+      <in>MMaterialData.cpp</in>
+      <in>MMaterialData.h</in>
+      <in>MNeighbourVars.cpp</in>
+      <in>MNeighbourVars.h</in>
+      <in>MOptionVars.cpp</in>
+      <in>MOptionVars.h</in>
+      <in>MOutput.cpp</in>
+      <in>MOutput.h</in>
+      <in>MOutputVars.cpp</in>
+      <in>MOutputVars.h</in>
+      <in>MParticle.cpp</in>
+      <in>MParticle.h</in>
+      <in>MParticleData.cpp</in>
+      <in>MParticleData.h</in>
+      <in>MRigidBody.cpp</in>
+      <in>MRigidBody.h</in>
+      <in>MRigidBodyData.cpp</in>
+      <in>MRigidBodyData.h</in>
+      <in>MSimulationData.cpp</in>
+      <in>MSimulationData.h</in>
+      <in>MSimulationInit.cpp</in>
+      <in>MSimulationInit.h</in>
+      <in>MSolution.cpp</in>
+      <in>MSolution.h</in>
+      <in>MSymPerVars.cpp</in>
+      <in>MSymPerVars.h</in>
+      <in>SPH07Config.h</in>
+      <in>global.h</in>
+      <in>main.cpp</in>
+    </df>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>CMakeLists.txt</itemPath>
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <sourceFolderFilter>^(nbproject)$</sourceFolderFilter>
+  <sourceRootList>
+    <Elem>.</Elem>
+  </sourceRootList>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Default" type="0">
+      <toolsSet>
+        <remote-sources-mode>LOCAL_SOURCES</remote-sources-mode>
+        <compilerSet>default</compilerSet>
+      </toolsSet>
+      <makefileType>
+        <makeTool>
+          <buildCommandWorkingDir>.</buildCommandWorkingDir>
+          <buildCommand>${MAKE} -f Makefile</buildCommand>
+          <cleanCommand>${MAKE} -f Makefile clean</cleanCommand>
+          <executablePath></executablePath>
+          <ccTool>
+            <incDir>
+              <pElem>/usr/include/openmpi-x86_64</pElem>
+              <pElem>.</pElem>
+            </incDir>
+            <preprocessorList>
+              <Elem>PARAVIEW_PATCH</Elem>
+            </preprocessorList>
+          </ccTool>
+        </makeTool>
+      </makefileType>
+      <item path="CMakeFiles/CompilerIdC/CMakeCCompilerId.c"
+            ex="true"
+            tool="0"
+            flavor="0">
+      </item>
+      <item path="CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp"
+            ex="true"
+            tool="1"
+            flavor="0">
+      </item>
+      <item path="SPH07Config.h" ex="true" tool="3" flavor="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>
